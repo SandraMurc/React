@@ -1,0 +1,33 @@
+body{
+  background-color: #f2caa7;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+/* .App {
+border: #f2a594;
+
+} */
+
+button{
+  background-color: #f2a594;
+  color: #d9435f;
+  border: #8c2a3c solid;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: medium;
+  height: 2rem;
+
+}
+
+ul{
+  color: #8c2a3c;
+  font-weight: bold;
+  overflow: scroll;
+  border:#8c2a3c 2px solid;
+  border-radius: 5px;
+  height: 30rem;
+  width: 15rem;
+}
+
