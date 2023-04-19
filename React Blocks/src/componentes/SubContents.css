@@ -1,0 +1,12 @@
+.subContentCont{
+    background-color: #fff200;
+    width: 32%;
+    height: 380px;
+    border: black solid 2px;
+}
+
+.tresSubContents{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
